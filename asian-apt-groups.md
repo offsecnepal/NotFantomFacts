@@ -1,0 +1,2 @@
+# Facts You missed?
+>  `"Modern Asian APT attackers"` often blend the Create or Modify System Process technique (Windows Service T1543.003) with Hijack Execution Flow: DLL Side-Loading (T1574.002), which has become somewhat of a trademark for these groups. Typically focused on cyber espionage, these attackers aim to collect sensitive data and transfer it to legitimate cloud services or external sources. Yet, occasional incidents, like No. 5, veer from this usual pattern.
